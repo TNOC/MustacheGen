@@ -1,0 +1,20 @@
+{
+    "people": [
+        {
+            "name": "Nick",
+            "dob": {
+                "month": 6,
+                "day": 1,
+                "year": 1990
+            }
+        },
+        {
+            "name": "Collin",
+            "dob": {
+                "month": 7,
+                "day": 4,
+                "year": 1992
+            }
+        }
+	]
+}
