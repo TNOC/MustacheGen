@@ -7,7 +7,13 @@ A command line tool to join a config file with a mustache template
 
 Usage
 ------
+```
 MustacheGen -c /path/to/config.json -t /path/to/template.ms > output.ext
+```
+or
+```
+MustacheGen --help
+```
 
 Config Files
 ------
